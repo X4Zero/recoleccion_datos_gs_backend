@@ -22,13 +22,13 @@ La pestaña Agregar permite agregar un investigador mediante la url de su perfil
 
 La pestaña Buscar permite buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
-![](https://raw.githubusercontent.com/X4Zero/recoleccion_datos_gs_backend/main/images/buscar_investigador.png)
+![](images/buscar_investigador.PNG)
 
 La pestaña Exportar permite exportar la información general de todos los investigadores al hacer click en Exportar todos. También puedes exportar la información general solo de un grupo de investigadores, seleccionando los investigadoresde interés en la tabla del lado izquierdo, luego pulsas en Traer seleccionados y finalmente en Exportar Seleccionados para descargar el fichero excel que contiene la información general de los investigadores seleccionados.
 
 buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
-![](https://raw.githubusercontent.com/X4Zero/recoleccion_datos_gs_backend/main/images/exportar_informacion.png)
+![](images/exportar_informacion.PNG)
 
 
 ## Configuración del entorno
