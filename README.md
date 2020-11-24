@@ -18,17 +18,17 @@ La Pantalla de inicio Mostará los investigadores cuyos datos ya se encuentran e
 
 La pestaña Agregar permite agregar un investigador mediante la url de su perfil de investigador de google scholar, para usar esta funcionalidad solo tienes que buscar el perfil del investigador que desees y copiar la url, luego pegas esta url en campo y das click en el botón agregar investigador.
 
-![](images/agregar_investigador.png)
+![](X4Zero/images/agregar_investigador.png)
 
 La pestaña Buscar permite buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
-![](images/buscar_investigador.png)
+![](X4Zero/images/buscar_investigador.png)
 
 La pestaña Exportar permite exportar la información general de todos los investigadores al hacer click en Exportar todos. También puedes exportar la información general solo de un grupo de investigadores, seleccionando los investigadoresde interés en la tabla del lado izquierdo, luego pulsas en Traer seleccionados y finalmente en Exportar Seleccionados para descargar el fichero excel que contiene la información general de los investigadores seleccionados.
 
 buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
-![](images/exportar_informacion.png)
+![](X4Zero/images/exportar_informacion.png)
 
 
 ## Configuración del entorno
