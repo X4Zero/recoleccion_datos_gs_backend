@@ -2,7 +2,7 @@
 
 Este proyecto consiste en obtener datos de investigadores de Google Scholar, y almacenarlos en un base de datos
 para que luego se puedan visualizar de una mejor forma en una aplicación web. El backend está compuesto por
-2 apis hechas con python y flask, y el frontend fue desarrollado en angular.
+2 apis hechas con python y flask, y el frontend fue desarrollado en angular. Los datos se obtuvieron mediante web scraping, aplicando beautifulsoup.
 
 El proyecto está compuesto de la siguiente forma:
 
