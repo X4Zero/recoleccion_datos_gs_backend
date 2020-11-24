@@ -18,7 +18,7 @@ La Pantalla de inicio Mostará los investigadores cuyos datos ya se encuentran e
 
 La pestaña Agregar permite agregar un investigador mediante la url de su perfil de investigador de google scholar, para usar esta funcionalidad solo tienes que buscar el perfil del investigador que desees y copiar la url, luego pegas esta url en campo y das click en el botón agregar investigador.
 
-![](https://raw.githubusercontent.com/X4Zero/recoleccion_datos_gs_backend/main/images/agregar_investigador.png)
+![](images/agregar_investigador.png)
 
 La pestaña Buscar permite buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
