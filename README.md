@@ -4,6 +4,8 @@ Este proyecto consiste en obtener datos de investigadores de Google Scholar, y a
 para que luego se puedan visualizar de una mejor forma en una aplicación web. El backend está compuesto por
 2 apis hechas con python y flask, y el frontend fue desarrollado en angular. Los datos se obtuvieron mediante web scraping, aplicando beautifulsoup.
 
+El frontend se encuentra en el siguiente [enlace](https://github.com/X4Zero/recoleccion_datos_gs_frontend).
+
 El proyecto está compuesto de la siguiente forma:
 
 | carpeta | función |
@@ -18,7 +20,7 @@ La Pantalla de inicio Mostará los investigadores cuyos datos ya se encuentran e
 
 La pestaña Agregar permite agregar un investigador mediante la url de su perfil de investigador de google scholar, para usar esta funcionalidad solo tienes que buscar el perfil del investigador que desees y copiar la url, luego pegas esta url en campo y das click en el botón agregar investigador.
 
-![](images/agregar_investigador.png)
+![](images/agregar_investigador.PNG)
 
 La pestaña Buscar permite buscar investigadores por sus nombres y algunas palabras clave como el lugar donde trabaja o estudia, al pulsar enter mostrará las coincidencias y para agregarlos a la base de datos solo tienes que hacer click en agregar investigador, pero si quieres ir al perfil del investigador en google scholar puedes hacer click en Perfil del investigador.
 
